@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>DailyBrief Podcast</title>
+    <meta charset="utf-8">
+    <style>
+        body { font-family: -apple-system, sans-serif; max-width: 600px; margin: 50px auto; padding: 0 20px; }
+        h1 { font-size: 1.5em; }
+        a { color: #007AFF; }
+        .badge { display: inline-block; padding: 8px 16px; background: #007AFF; color: white; border-radius: 8px; text-decoration: none; margin: 4px; }
+    </style>
+</head>
+<body>
+    <h1>🎙️ DailyBrief</h1>
+    <p>AI & Finance News + English Learning — Your daily bilingual podcast.</p>
+    <p>New episodes at 10am, 3pm, and 9pm daily.</p>
+
+    <h2>Subscribe</h2>
+    <p>
+        <a class="badge" href="feed.xml">📡 RSS Feed</a>
+    </p>
+    <p>Copy the RSS feed URL and paste it into your podcast app:</p>
+    <code id="feedUrl"></code>
+    <script>
+        document.getElementById('feedUrl').textContent = window.location.href + 'feed.xml';
+    </script>
+</body>
+</html>
