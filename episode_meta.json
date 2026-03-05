@@ -66,5 +66,9 @@
   "dailybrief_2026-03-05-afternoon": {
     "published_at": "2026-03-05T10:05:36.036841",
     "episode_number": 17
+  },
+  "dailybrief_2026-03-05-evening": {
+    "published_at": "2026-03-05T15:08:34.721032",
+    "episode_number": 18
   }
 }
