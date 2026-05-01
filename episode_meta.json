@@ -222,5 +222,9 @@
   "dailybrief_2026-04-30-afternoon": {
     "published_at": "2026-04-30T15:13:54.170378",
     "episode_number": 56
+  },
+  "dailybrief_2026-04-30-evening": {
+    "published_at": "2026-04-30T21:20:30.962307",
+    "episode_number": 57
   }
 }
