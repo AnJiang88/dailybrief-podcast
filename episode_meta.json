@@ -230,5 +230,9 @@
   "dailybrief_2026-05-01-morning": {
     "published_at": "2026-05-01T10:15:01.365514",
     "episode_number": 58
+  },
+  "dailybrief_2026-05-01-afternoon": {
+    "published_at": "2026-05-01T18:49:06.379040",
+    "episode_number": 59
   }
 }
