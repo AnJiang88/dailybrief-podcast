@@ -378,5 +378,9 @@
   "dailybrief_2026-05-18-evening": {
     "published_at": "2026-05-29T16:27:59.105356",
     "episode_number": 95
+  },
+  "dailybrief_2026-05-18-morning": {
+    "published_at": "2026-05-29T16:30:32.636478",
+    "episode_number": 96
   }
 }
