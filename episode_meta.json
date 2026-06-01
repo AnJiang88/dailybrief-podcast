@@ -494,5 +494,9 @@
   "dailybrief_2026-06-01-afternoon": {
     "published_at": "2026-06-01T10:13:02.685173",
     "episode_number": 124
+  },
+  "dailybrief_2026-06-01-evening": {
+    "published_at": "2026-06-01T15:13:41.041122",
+    "episode_number": 125
   }
 }
