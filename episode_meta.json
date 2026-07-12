@@ -842,5 +842,9 @@
   "dailybrief_2026-07-11-morning": {
     "published_at": "2026-07-11T10:23:40.409984",
     "episode_number": 211
+  },
+  "dailybrief_2026-07-11-afternoon": {
+    "published_at": "2026-07-11T18:02:16.833380",
+    "episode_number": 212
   }
 }
