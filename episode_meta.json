@@ -894,5 +894,9 @@
   "dailybrief_2026-07-15-afternoon": {
     "published_at": "2026-07-15T15:36:55.590570",
     "episode_number": 224
+  },
+  "dailybrief_2026-07-15-evening": {
+    "published_at": "2026-07-15T21:14:01.790349",
+    "episode_number": 225
   }
 }
