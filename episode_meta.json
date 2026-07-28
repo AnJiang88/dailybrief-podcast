@@ -1030,5 +1030,9 @@
   "dailybrief_2026-07-27-afternoon": {
     "published_at": "2026-07-27T15:16:26.698261",
     "episode_number": 258
+  },
+  "dailybrief_2026-07-27-evening": {
+    "published_at": "2026-07-27T21:30:58.762641",
+    "episode_number": 259
   }
 }
