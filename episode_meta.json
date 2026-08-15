@@ -1210,5 +1210,9 @@
   "dailybrief_2026-08-15-morning": {
     "published_at": "2026-08-15T10:15:44.109289",
     "episode_number": 303
+  },
+  "dailybrief_2026-08-15-afternoon": {
+    "published_at": "2026-08-15T15:14:12.647195",
+    "episode_number": 304
   }
 }
