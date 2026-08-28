@@ -6,7 +6,7 @@
     <language>en</language>
     <link>https://AnJiang88.github.io/dailybrief-podcast</link>
     <generator>DailyBrief Podcast Generator</generator>
-    <lastBuildDate>Thu, 27 Aug 2026 21:15:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 03:16:34 +0000</lastBuildDate>
     <atom:link href="https://AnJiang88.github.io/dailybrief-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>DailyBrief</itunes:author>
     <itunes:summary>Your daily bilingual podcast covering the latest in AI and finance. Each episode features two hosts diving deep into trending stories, with integrated English learning segments designed for Chinese speakers. Learn real-world vocabulary, idioms, and pronunciation while staying informed. New episodes at 10am, 3pm, and 9pm daily.</itunes:summary>
@@ -29,6 +29,17 @@
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>329</itunes:episode>
+    </item>
+    <item>
+      <title>DailyBrief Evening — 2026-08-27</title>
+      <description>Your evening edition of DailyBrief for 2026-08-27. AI and finance news with English learning segments.</description>
+      <pubDate>Thu, 27 Aug 2026 21:30:00 +0000</pubDate>
+      <guid>https://AnJiang88.github.io/dailybrief-podcast/dailybrief_2026-08-27-evening.mp3</guid>
+      <enclosure url="https://AnJiang88.github.io/dailybrief-podcast/dailybrief_2026-08-27-evening.mp3" length="4515674" type="audio/mpeg"/>
+      <itunes:duration>00:04:42</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>331</itunes:episode>
     </item>
     <item>
       <title>DailyBrief Afternoon — 2026-08-27</title>
