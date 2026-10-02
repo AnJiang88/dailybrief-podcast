@@ -1614,5 +1614,9 @@
   "dailybrief_2026-10-01-evening": {
     "published_at": "2026-10-01T15:11:22.591388",
     "episode_number": 404
+  },
+  "dailybrief_2026-10-02-morning": {
+    "published_at": "2026-10-01T21:10:32.496722",
+    "episode_number": 405
   }
 }
