@@ -1730,5 +1730,9 @@
   "dailybrief_2026-10-15-morning": {
     "published_at": "2026-10-14T21:09:27.687488",
     "episode_number": 433
+  },
+  "dailybrief_2026-10-15-afternoon": {
+    "published_at": "2026-10-15T10:15:51.207344",
+    "episode_number": 434
   }
 }
