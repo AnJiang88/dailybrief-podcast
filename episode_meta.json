@@ -1746,5 +1746,9 @@
   "dailybrief_2026-10-16-afternoon": {
     "published_at": "2026-10-16T10:10:27.957285",
     "episode_number": 437
+  },
+  "dailybrief_2026-10-16-evening": {
+    "published_at": "2026-10-16T15:09:35.060797",
+    "episode_number": 438
   }
 }
