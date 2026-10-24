@@ -1814,5 +1814,9 @@
   "dailybrief_2026-10-24-morning": {
     "published_at": "2026-10-23T22:34:44.272376",
     "episode_number": 454
+  },
+  "dailybrief_2026-10-24-evening": {
+    "published_at": "2026-10-24T17:35:47.931606",
+    "episode_number": 455
   }
 }
