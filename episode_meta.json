@@ -1870,5 +1870,9 @@
   "dailybrief_2026-10-29-afternoon": {
     "published_at": "2026-10-29T10:14:22.561283",
     "episode_number": 468
+  },
+  "dailybrief_2026-10-29-evening": {
+    "published_at": "2026-10-29T15:12:56.117532",
+    "episode_number": 469
   }
 }
