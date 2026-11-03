@@ -1918,5 +1918,9 @@
   "dailybrief_2026-11-03-morning": {
     "published_at": "2026-11-02T21:53:28.629211",
     "episode_number": 480
+  },
+  "dailybrief_2026-11-03-afternoon": {
+    "published_at": "2026-11-03T10:12:23.619220",
+    "episode_number": 481
   }
 }
