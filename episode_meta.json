@@ -1962,5 +1962,9 @@
   "dailybrief_2026-11-08-morning": {
     "published_at": "2026-11-07T21:11:04.191447",
     "episode_number": 491
+  },
+  "dailybrief_2026-11-08-evening": {
+    "published_at": "2026-11-08T12:00:58.311058",
+    "episode_number": 492
   }
 }
