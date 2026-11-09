@@ -1974,5 +1974,9 @@
   "dailybrief_2026-11-09-morning": {
     "published_at": "2026-11-08T21:11:37.996853",
     "episode_number": 494
+  },
+  "dailybrief_2026-11-09-evening": {
+    "published_at": "2026-11-09T10:10:50.782573",
+    "episode_number": 495
   }
 }
