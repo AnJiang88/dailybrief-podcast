@@ -1990,5 +1990,9 @@
   "dailybrief_2026-11-10-morning-2": {
     "published_at": "2026-11-10T10:12:22.049895",
     "episode_number": 498
+  },
+  "dailybrief_2026-11-10-afternoon": {
+    "published_at": "2026-11-10T15:12:39.605250",
+    "episode_number": 499
   }
 }
