@@ -2018,5 +2018,9 @@
   "dailybrief_2026-11-12-afternoon": {
     "published_at": "2026-11-12T15:12:26.229990",
     "episode_number": 505
+  },
+  "dailybrief_2026-11-12-evening": {
+    "published_at": "2026-11-12T21:12:41.606543",
+    "episode_number": 506
   }
 }
