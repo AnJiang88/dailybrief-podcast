@@ -2054,5 +2054,9 @@
   "dailybrief_2026-11-16-afternoon": {
     "published_at": "2026-11-16T15:12:42.614125",
     "episode_number": 514
+  },
+  "dailybrief_2026-11-16-evening": {
+    "published_at": "2026-11-16T21:13:20.559571",
+    "episode_number": 515
   }
 }
